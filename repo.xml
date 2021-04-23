@@ -1,1 +1,8 @@
-
+<repo>
+	<footerlinks>
+		<link>
+			<name>Link</name>
+			<url>https://github.com</url>
+		</link>
+	</footerlinks>
+</repo>
