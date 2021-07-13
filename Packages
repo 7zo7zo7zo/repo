@@ -1,6 +1,7 @@
 Package: com.yourcompany.first
+Name: First
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 0.0.1
 Section: Tweaks
 Maintainer: System Administrator
 Depends: mobilesubstrate
