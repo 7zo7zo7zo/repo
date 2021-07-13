@@ -3,6 +3,7 @@ Name: First
 Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
 Maintainer: System Administrator
 Depends: mobilesubstrate
 Filename: ./debs/com.yourcompany.first_0.0.1-1+debug_iphoneos-arm.deb
