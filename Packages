@@ -1,13 +1,13 @@
-Package: com.7zo.first
+Package: com.yourcompany.first
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: 7zo
+Maintainer: System Administrator
 Depends: mobilesubstrate
-Filename: ./debs/com.julioverne.gravity_0.7_iphoneos-arm.deb
-Size: 223624
-MD5sum: 56f8b813c82708ae3774e452ed47ca5a
-SHA1: 60ec173936d15fb5d10a1b8c2bb3f133f76260e5
-SHA256: 74a1249f9540c33be81f869ea762c96e4f2a144a1ae848bbda00a5055626eef2
-SHA512: 72bd61e59a82f5a9745b8344f50957b7e958f1dc7d9603bc1e4cbfec470804ac11c9227f0768be3869366f98dd789ebb78fded33195c1040fd2b08641e2f9ea4
-Author: 7zo
+Filename: ./debs/com.yourcompany.first_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4666
+MD5sum: 52f2a4cb3e3dd6551c394c4589509f7a
+SHA1: e548b7e442dfce58ad2b01e5fb7fea4261835369
+SHA256: 3adaaad86698bcf337fc8b140e97406be6c005a0e7ff68ee9a7cde86aaac0e28
+SHA512: 1d43c55662078e289c57543e9d6e59472154e4831120aa57066b109abb99875b3b128164439b23229ddc1ece27a5daacce83fe79c0326e198180039408cfea72
+Author: System Administrator
