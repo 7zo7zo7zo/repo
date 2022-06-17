@@ -1,15 +1,30 @@
-Package: com.yourcompany.first
+Package: com.7zo.first
 Name: First
 Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Maintainer: System Administrator
+Description: An example tweak
+Maintainer: 7zo
 Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.first_0.0.1-1+debug_iphoneos-arm.deb
-Size: 4666
-MD5sum: 52f2a4cb3e3dd6551c394c4589509f7a
-SHA1: e548b7e442dfce58ad2b01e5fb7fea4261835369
-SHA256: 3adaaad86698bcf337fc8b140e97406be6c005a0e7ff68ee9a7cde86aaac0e28
-SHA512: 1d43c55662078e289c57543e9d6e59472154e4831120aa57066b109abb99875b3b128164439b23229ddc1ece27a5daacce83fe79c0326e198180039408cfea72
-Author: System Administrator
+Filename: ./debs/com.7zo.first_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4664
+MD5sum: c71af813dd5dd7fdd656784d5af1805a
+SHA1: 0a71598cda7ece542d8e83fe7a7aa6633ec2b274
+SHA256: 471b61bc1e1d03eb9727a2471999812977319c9fe32dddec231f33acf40d8b25
+SHA512: 8381bf769d42192770413fc03c415474508d57eda3ed98a82c9dd2ef25225f30f46875684fdb7f0099fa0dc427351879d65faa2409185378de2d8ca5ee44b4c8
+Author: 7zo
+
+Package: com.7zo.youtubed
+Name: YouTubed
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Description: A simple YouTube improvement tweak
+Maintainer: 7zo
+Depends: mobilesubstrate
+Filename: ./debs/com.7zo.youtubed_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5148
+MD5sum: f164b48b20c146e9d3623ab14cf645cd
+SHA1: 9b7ecd54b13f442e1d89c543eaee35cc94a783fd
+SHA256: 51b9844689a6a4330df8c355f2a63eae8fd3d56390904d8a548118d206c751b1
+SHA512: ac305a4915d40c2a4aa283f455106032f22c79f7fe1fb4c06b799056e555e3f6def4b9abafedb99a1aa70ae1edd63759c6fc4c00f09d543554f19ddf90178b08
